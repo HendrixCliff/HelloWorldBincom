@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\bin\Debug\net9.0\HelloWorldBincom.exe
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\bin\Debug\net9.0\HelloWorldBincom.deps.json
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\bin\Debug\net9.0\HelloWorldBincom.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\bin\Debug\net9.0\HelloWorldBincom.dll
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\bin\Debug\net9.0\HelloWorldBincom.pdb
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\HelloWorldBincom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\HelloWorldBincom.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\HelloWorldBincom.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\HelloWorldBincom.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\HelloWorldBincom.dll
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\refint\HelloWorldBincom.dll
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\HelloWorldBincom.pdb
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\HelloWorldBincom.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\HelloWorldBincom\HelloWorldBincom\obj\Debug\net9.0\ref\HelloWorldBincom.dll
